@@ -1,4 +1,12 @@
-﻿namespace FlashDriveUtil
+﻿/*
+MIT License
+
+Copyright (c) 2023 GrenkaUkraine
+
+This code is licensed under the MIT License. See the LICENSE.txt file in the project root for details.
+*/
+
+namespace FlashDriveUtilManager
 {
     public class FlashManagerException : Exception
     {
