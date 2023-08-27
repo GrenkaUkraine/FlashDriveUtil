@@ -4,6 +4,28 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>FlashDriveUtil</PackageId>
+    <Title>FlashDriveUtil</Title>
+    <Authors>GrenkaUkraine</Authors>
+    <Product>FlashDriveUtil</Product>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/GrenkaUkraine/FlashDriveUtil</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/GrenkaUkraine/FlashDriveUtil</RepositoryUrl>
+    <PackageTags>USB Flash FlashDriveUtil Drive</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
