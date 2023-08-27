@@ -2,7 +2,7 @@
 
 [![GitHub License](https://img.shields.io/github/license/GrenkaUkraine/FlashDriveUtil)](LICENSE.txt)
 ![Language](https://img.shields.io/badge/language-C%23-blue)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)]()
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/GrenkaUkraine/FlashDriveUtil/tree/master/docs)
 [![Discord](https://img.shields.io/discord/1079380365526974474)](https://discord.gg/TTskdX3Z7F)
 
 ## Table of Contents
